@@ -1,4 +1,4 @@
---- 
+
 # TinyTapeout project information
 project:
   wokwi_id:    374967675785369601        # If using wokwi, set this to your project's ID
@@ -21,7 +21,7 @@ yaml_version: 4
 #
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
-  author:       "Hugo Jesús Navarro Hernández, David Mora Mendez, Nadia Fernanda Barradas Solis"      # Your name
+  author:       "Hugo Jesús Navarro Hernández, David Mora Mendez, Nadia Fernanda Barradas Solis, Juan Giovani Landa Cervantes"      # Your name
   title:        "4 bit full adder"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "A full adder of binary numbers with logic gates"      # Short description of what your project does
