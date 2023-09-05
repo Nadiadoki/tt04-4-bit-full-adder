@@ -14,3 +14,4 @@ Selecting the different switches and switching them on and off to turn on the le
  - Hugo Jesús Navarro Hernández
  - David Mora Mendez
  - Nadia Fernanda Barradas Solis
+ - Juan Giovani Landa Cervantes
